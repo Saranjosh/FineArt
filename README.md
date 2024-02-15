@@ -18,13 +18,22 @@
 <li><strong>Menu Page:</strong> Displays a variety of paintings with an interactive navigation bar.</li>
 
 
+![2024-02-1512-48-52-ezgif com-crop](https://github.com/Saranjosh/FineArt/assets/84576650/25073670-adc4-432c-965f-44ef98c0ebe8)
+
+
+<li><strong>Painting Interaction:</strong> Each painting has buttons for "Add to Cart" and "Buy Now."</li>
+
+
+![2024-02-1512-54-18-ezgif com-crop](https://github.com/Saranjosh/FineArt/assets/84576650/15130468-3aeb-4dc5-af17-d875bbf4f8b7)
+
+
+
 <li><strong>Navbar Options:</strong> Home, Cart, About, Contact, Logout.</li>
 <li><strong>Cart Management:</strong> Add paintings to the cart, view and manage items.</li>
 
 ![2024-02-1500-24-03-ezgif com-crop](https://github.com/Saranjosh/FineArt/assets/84576650/1fbb981c-4e2d-4775-8d17-5c87ae0caf55)
 
 
-<li><strong>Painting Interaction:</strong> Each painting has buttons for "Add to Cart" and "Buy Now."</li>
 <li><strong>Cart Page Functions:</strong> Increment/Decrement quantity, Buy, Delete, Buy All items in the cart.</li>
 </ul>
 
