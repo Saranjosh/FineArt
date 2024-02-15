@@ -36,7 +36,7 @@
         <div class="form-content">
           <div class="login-form">
             <div class="title">Login</div>
-          <form action="./LS" method="post">
+          <form action="./LS" method="post" autocomplete="off">
             <div class="input-boxes">
               <div class="input-box">
                 <i class="fas fa-envelope"></i>
@@ -56,7 +56,7 @@
       </div>
         <div class="signup-form">
           <div class="title">Signup</div>
-        <form action="./SS" method="post">
+        <form action="./SS" method="post" autocomplete="off">
             <div class="input-boxes">
               <div class="input-box">
                 <i class="fas fa-user"></i>

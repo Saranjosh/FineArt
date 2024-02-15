@@ -485,7 +485,7 @@
         <div class="tdiv">
         <pre class="total">Total: ₹<%= total %></pre>
         </div>
-        <form method="post" action="./BA">
+        <form method="post" action="./BAS">
         <input type="hidden" name="name" value="<%= uname %>">
       	<input type="hidden" name="email" value="<%= emailid %>">
         <input type="hidden" name="cname" value="<%= cname %>">
